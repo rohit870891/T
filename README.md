@@ -4,6 +4,8 @@
 
 # TeraBox Link Bypass Bot 🚀
 
+##NOTE: This Repo is not actively maintained.
+
 ---
 
 ### **Description:**
