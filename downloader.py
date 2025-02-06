@@ -85,7 +85,7 @@ async def fetch_download_link_async(url):
             request_url = str(response.url)
             surl = request_url.split('surl=')[1]
             params = {
-                'app_id': '250528',
+                'app_id': '250286',
                 'web': '1',
                 'channel': 'dubox',
                 'clienttype': '0',
