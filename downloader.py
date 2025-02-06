@@ -89,9 +89,8 @@ async def fetch_download_link_async(url):
                 'web': '1',
                 'channel': 'dubox',
                 'clienttype': '0',
-                'jsToken':
-6019BA935C58732F88E117BB48193D6C3BC3917FE0BC7DD2B70E618F1A0BDA0227688E4AD5CEE81D4A7A1A86B227B247542A23AF16B2F1264306DA33B09C3F66,
-                'dplogid': 8908538253452301572,
+                'jsToken': js_token,
+                'dplogid': log_id,
                 'page': '1',
                 'num': '20',
                 'order': 'time',
