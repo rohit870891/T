@@ -11,7 +11,7 @@ my_cookie = os.environ.get("browserid DbGhIfUwCmz5pRL9tNJXj71VLCdZrMpJCpPmKGukZJ
 ")
 my_headers = os.environ.get("")
 session_string = os.environ.get("BQFW2cgAYlyhcCV5p6F7c0r_15EhmooKo-e9wRNcoPfnVxYIA6XCHwxB7iQt4x_HgPza-CzEja_Y1TCC7zdg9lqFnFWBQcHV6FStzHkrUGjdsIeoxw9T0LN_NnRAyuqMtOCrbNgl5GVhdrvhzjLLwrkaBlNGh9MVWl7Ysc2jMjsxvyAMTYejWJrG07IiPOiu2uUB-VQ7YeVmqGXWYvYMgmHG0_j82DMRWC9KJblkIp3GGIe07FPBrP_Dlj2-PIhBCCrqsX8daYdKMByoQUCQccdJj_kXs17w_v5lEh6pbs5px4kCLCRfSapFsS_vcm90isJ4DhKcn9I6HOtKvEedU7-1j2hCwgAAAAG00gEJAA")
-allowed_groups = os.environ.get("-1002170811388") or "-123232ZCVZB"  # added random group id to avoid NoneType error
+allowed_groups = os.environ.get("-1002170811388") # added random group id to avoid NoneType error
 # allowed_groups = ["-123232ZCVZB"] or ["121222xxx", "123456xxx"]
 owner_id = os.environ.get("7328629001") or ""
 
